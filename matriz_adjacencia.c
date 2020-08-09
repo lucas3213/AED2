@@ -71,3 +71,5 @@ int main(){
 	g = cria_grafo(vertices);
     f=verifica_ligacao(continuar_processo , g);
 }
+
+// QUEST 1: Este algoritmo foi escolhido mais por ser de facil entendimento e execução mas estou ciente que o ideal seria a lista adjacencia
